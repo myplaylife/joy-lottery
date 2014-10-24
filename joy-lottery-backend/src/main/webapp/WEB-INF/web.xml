@@ -53,7 +53,7 @@
 
     <servlet-mapping>
         <servlet-name>JerseySpring</servlet-name>
-        <url-pattern>/*</url-pattern>
+        <url-pattern>/resource/*</url-pattern>
     </servlet-mapping>
 
 </web-app>
